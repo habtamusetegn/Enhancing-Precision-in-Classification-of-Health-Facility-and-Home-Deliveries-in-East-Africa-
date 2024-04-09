@@ -1,0 +1,2 @@
+# Enhancing-Precision-in-Classification-of-Health-Facility-and-Home-Deliveries-in-East-Africa-
+This study aims to improve the classification of health facility and home deliveries using advanced machine learning algorithms and examines factors influencing delivery location choice among women in East Africa. To accomplish the objective, a comparative analysis of twelve advanced machine learning algorithms and expermentations were undertaken.
